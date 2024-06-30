@@ -487,10 +487,10 @@ section.featured_project{
   .services .inner .container .progress .branding{
     color: var(--lihtgrey);
     position: absolute;
-    font-size: 16px;
+    font-size: 12px;
     z-index: 1000;
     top: -20px;
-    left: 12px;
+    left: 25px;
   }
 
 
